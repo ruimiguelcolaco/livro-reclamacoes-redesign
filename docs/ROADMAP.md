@@ -6,7 +6,7 @@ Documento vivo. Cada iteração é pequena, fechada e verificável. **Não fazem
 
 | # | Iteração | Objetivo | Entregável | Estado |
 |---|----------|----------|------------|--------|
-| 0 | **Fundação** | Documentação + estrutura de repositório | Todos os `.md` + repo GitHub público | 🟡 Em curso |
+| 0 | **Fundação** | Documentação + estrutura de repositório | Todos os `.md` + repo GitHub público | ✅ Concluído |
 | 1 | **Scaffold técnico** | Next.js a arrancar com Tailwind + camada de UI e tokens AGORA (versão pública) | App "hello world" com tema AGORA local | ⬜ Por fazer |
 | 2 | **Fluxo de reclamação (UI)** | Formulário multi-passo com componentes AGORA, validação e confirmação | Fluxo navegável com dados mock | ⬜ Por fazer |
 | 3 | **Acessibilidade + i18n** | WCAG 2.1 AA, PT/EN, responsivo | Auditoria a11y passada | ⬜ Por fazer |
@@ -18,11 +18,11 @@ Legenda: ⬜ por fazer · 🟡 em curso · ✅ concluído
 
 ## Detalhe por iteração
 
-### Iteração 0 — Fundação
-- [ ] Criar `docs/` e todos os ficheiros `.md`
-- [ ] Decidir licença, nome do repo e conta GitHub
-- [ ] `git init` + primeiro commit
-- [ ] Criar repo GitHub público + `git push`
+### Iteração 0 — Fundação ✅
+- [x] Criar `docs/` e todos os ficheiros `.md`
+- [x] Decidir licença (EUPL-1.2), nome do repo (`livro-reclamacoes-redesign`) e conta GitHub (`ruimiguelcolaco`)
+- [x] `git init` + primeiro commit
+- [x] Criar repo GitHub público + `git push`
 
 ### Iteração 1 — Scaffold técnico
 - [ ] `create-next-app` (App Router, TS, Tailwind, ESLint)
