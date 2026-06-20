@@ -65,7 +65,7 @@ total alinhamento com os padrões oficiais do Estado.
 - Entidade: projeto cívico individual (sem fins lucrativos)
 - Âmbito: protótipo de melhoria do Livro de Reclamações (não substitui o serviço
   oficial; respeita o enquadramento legal existente)
-- Repositório (auditável): <LINK_GITHUB>
+- Repositório (auditável): https://github.com/ruimiguelcolaco/livro-reclamacoes-redesign
 
 Agradeço desde já a atenção e fico ao dispor para esclarecimentos.
 
